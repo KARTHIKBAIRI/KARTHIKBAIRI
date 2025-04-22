@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karthik-bairi-65514022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KARTHIKBAIRI" height="30" width="40" /></a>
-<a href="https://leetcode.com/karthikbairi37-gmail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthikbairi" height="30" width="40" /></a>
+<a href="https://leetcode.com/karthikbairi37-gmail/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthikbairi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
