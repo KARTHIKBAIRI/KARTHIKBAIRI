@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BAIRI KARTHIK</h1>
+<h1 align="center">Hi 👋, I'm KARTHIK BAIRI</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
